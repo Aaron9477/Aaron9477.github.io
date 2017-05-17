@@ -4,7 +4,7 @@ title: 工科学生
 address: 中国, 天津
 email: 869788668@qq.com
 github: Aaron9477
-gavatar: /assets/img/UAV.JPG
+gavatar: /assets/img/UAV.jpg
 #workHistory:
 #- work3:
   # company: 上海大银幕网络科技有限公司
@@ -38,6 +38,13 @@ educationHistory:
   started: 2012
   duration: (2012.9 - 2016.7)
   description: 获得天津市电脑鼠大赛一等奖 在美国参加APEC Micro Mouse Contest获得第十名
+- education2:
+  organization: 天津大学
+  degree: 硕士
+  major: 电子信息工程
+  started: 2016
+  duration: (2016.9 - 至今)
+  description: 主要研究基于无人机的目标检测与跟踪方向，涉及到编程、机器学习等 
 languages:
 - language1:
   name: 中文
